@@ -1,7 +1,5 @@
 #  Title
 
-#### By: Jason Elijah Church
-
 #### Brief Description
 
 ## Technologies Used
